@@ -22,6 +22,7 @@ class Ui_MainWindow(object):
         self.label.setStyleSheet("QLabel{\n"
 "font: 18pt \".AppleSystemUIFont\";\n"
 "background-color: rgb(255, 255, 255);\n"
+"    color: rgb(0, 0, 0);\n"
 "}")
         self.label.setAlignment(QtCore.Qt.AlignRight|QtCore.Qt.AlignTrailing|QtCore.Qt.AlignVCenter)
         self.label.setObjectName("label")

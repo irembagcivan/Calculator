@@ -27,6 +27,7 @@
      <string notr="true">QLabel{
 font: 18pt &quot;.AppleSystemUIFont&quot;;
 background-color: rgb(255, 255, 255);
+	color: rgb(0, 0, 0);
 }</string>
     </property>
     <property name="text">
